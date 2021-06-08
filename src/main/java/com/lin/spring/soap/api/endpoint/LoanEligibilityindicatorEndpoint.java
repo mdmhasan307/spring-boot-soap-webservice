@@ -13,7 +13,7 @@ import com.lin.spring.soap.api.service.LoanEligibilityService;
 @Endpoint
 public class LoanEligibilityindicatorEndpoint {
 
-	private static final String NAMESPACE = "http://www.javatechie.com/spring/soap/api/loanEligibility";
+	private static final String NAMESPACE = "http://www.lin.com/spring/soap/api/loanEligibility";
 	@Autowired
 	private LoanEligibilityService service;
 

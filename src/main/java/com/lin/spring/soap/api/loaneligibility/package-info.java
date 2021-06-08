@@ -5,5 +5,5 @@
 // Generated on: 2019.06.07 at 09:07:01 PM IST 
 //
 
-@javax.xml.bind.annotation.XmlSchema(namespace = "http://www.javatechie.com/spring/soap/api/loanEligibility", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
+@javax.xml.bind.annotation.XmlSchema(namespace = "http://www.lin.com/spring/soap/api/loanEligibility", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
 package com.lin.spring.soap.api.loaneligibility;
